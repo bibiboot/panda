@@ -1,0 +1,43 @@
+body { font-family: Roboto, Arial, sans-serif; color: color: #2c2c2c; font-weight: 300; font-size: medium; font-variant: normal; font-style: normal; text-align: start;  }
+ul, li {  margin:0; padding:0; list-style: none; }
+.full { width: 100%; font-size: 14px; }
+.searchbox { width: 100%; margin-top: -3px; }
+#searched_text { width: 95%;  }
+.right { float: right; }
+#left_map { width: 30%; }
+.left_center { margin: 0 auto; }
+/*Map CSS*/
+#map { width: 70%; }
+#panel { display: none; }
+#panel { position: absolute; top: 5px; left: 50%; margin-left: -180px; z-index: 5; background-color: #fff; padding: 5px; border: 1px solid #999; }
+#map-canvas { height: 100%;margin: 0px; padding: 0px }
+/*Map CSS*/
+
+/*Text Datat*/
+ul { list-style: none; }
+.date { padding: 10px; font-size: medium; height: 19px; /*background-color: rgb(169,202,254);*/  background-color:rgb(238,238,238);  border-bottom: 1px solid silver; border-left:0px; border-right:0px; cursor: pointer; display: block; }
+.alternate { background-color: rgb(249,216,98); }
+.alternate2 { background-color: rgb(169,202,254); }
+.content { padding-left: 5px; line-height: 1.8; cursor: pointer; border-bottom: 1px solid #cdcdcd; }
+.day { overflow: hidden;  }
+.day a:hover{ text-decoration: none; background: rgb(172,204,253); }
+a:hover .content{ background: rgb(172,204,253); }
+.content div  { font-size: 14px; }
+.day_count { float: left; margin-right: 6px; } 
+.month, .stime { }
+a { color: #2c2c2c;}
+.info { float: right; margin-right:12px; }
+/*text Data*/
+.desc{ padding: 2%; line-height: 1.5; border-bottom: 1px solid silver; border-left: 0px; border-right: 0px; overflow: hidden; display: none; background: rgb(255,225,104)}
+.close { font-size: 10px; float: right; color: blue; }
+.searchbox input { border-top: 0px; border: 1px solid silver; }
+.last_li { border-bottom: 1px solid silver; }
+#places1 { height: 455px; overflow: scroll; }
+.time { float: left; }
+.loc { padding-left: 11% ; margin-left: 1%;}
+.names { padding-left: 3%; float: right; width: 88% }
+a { text-decoration: none; }
+.sel { z-index: 10000000000; position: absolute; left: 30%; top: 94px;  height: 21px; background: rgb(238,238,238); padding: 10px;border: 1px solid silver; display:none; }
+//.logo_map { z-index: 9999999999999999999999; position: absolute; left: 30%; bottom:0;  }
+.logo_map img { width: 100%; }
+.selected { background: rgb(172,204,253); }

@@ -1,0 +1,535 @@
+2014-03-09 21:12:24,490      travelLoggerSTATS        INFO   danish	Keyword	val
+2014-03-09 21:12:24,582      travelLoggerSTATS        INFO   Cache	Get	val	False
+2014-03-09 21:12:24,584      travelLoggerSTATS        INFO   Cache	Set	val
+2014-03-09 21:12:24,654      travelLoggerSTATS        INFO   danish	Keyword	valu
+2014-03-09 21:12:24,655      travelLoggerSTATS        INFO   Cache	Get	valu	False
+2014-03-09 21:12:24,658      travelLoggerSTATS        INFO   Cache	Set	valu
+2014-03-09 21:12:24,874      travelLoggerSTATS        INFO   danish	Keyword	value
+2014-03-09 21:12:24,875      travelLoggerSTATS        INFO   Cache	Get	value	False
+2014-03-09 21:12:24,876      travelLoggerSTATS        INFO   Cache	Set	value
+2014-03-09 21:13:39,139      travelLoggerSTATS        INFO   Events	danish	Home
+2014-03-09 21:13:39,273      travelLoggerSTATS        INFO   Events	danish	Home
+2014-03-09 21:16:05,514      travelLoggerSTATS        INFO   EventsDesc	danish	Keyword	1432164080354593
+2014-03-09 21:16:05,515      travelLoggerSTATS        INFO   EventsDesc	1432164080354593	Keyword	Get a Student Discount at Forever21
+2014-03-10 00:28:24,329      travelLoggerSTATS        INFO   Events	danish	Home
+2014-03-10 00:28:24,526      travelLoggerSTATS        INFO   Events	danish	Home
+2014-03-10 00:28:39,707      travelLoggerSTATS        INFO   EventsDesc	danish	Keyword	429690760467733
+2014-03-10 00:28:39,709      travelLoggerSTATS        INFO   EventsDesc	429690760467733	Keyword	SWE Mentorship Outing: Hollywood Sign Hike
+2014-03-10 00:38:30,544      travelLoggerSTATS        INFO   Events	danish	Home
+2014-03-10 00:38:30,722      travelLoggerSTATS        INFO   Events	danish	Home
+2014-03-10 01:04:54,637      travelLoggerSTATS        INFO   Events	danish	Home
+2014-03-10 01:04:54,754      travelLoggerSTATS        INFO   Events	danish	Home
+2014-03-10 01:06:05,893      travelLoggerSTATS        INFO   Events	danish	Home
+2014-03-10 01:06:06,030      travelLoggerSTATS        INFO   Events	danish	Home
+2014-03-10 01:09:21,771      travelLoggerSTATS        INFO   danish	Keyword	sal
+2014-03-10 01:09:21,798      travelLoggerSTATS        INFO   Cache	Get	sal	False
+2014-03-10 01:09:21,800      travelLoggerSTATS        INFO   Cache	Set	sal
+2014-03-10 01:09:21,878      travelLoggerSTATS        INFO   danish	Keyword	sal
+2014-03-10 01:09:21,879      travelLoggerSTATS        INFO   Cache	Get	sal	True
+2014-03-10 01:09:22,104      travelLoggerSTATS        INFO   danish	Keyword	sale
+2014-03-10 01:09:22,105      travelLoggerSTATS        INFO   Cache	Get	sale	False
+2014-03-10 01:09:22,106      travelLoggerSTATS        INFO   Cache	Set	sale
+2014-04-01 14:04:04,634      travelLoggerSTATS        INFO   Events		Home
+2014-04-01 14:04:04,902      travelLoggerSTATS        INFO   Events		Home
+2014-04-01 14:38:58,593      travelLoggerSTATS        CRITICAL   local variable 'searchWord' referenced before assignment
+2014-04-01 14:40:09,768      travelLoggerSTATS        CRITICAL   global name 'searchWord' is not defined
+2014-04-01 14:41:32,910      travelLoggerSTATS        INFO   	Keyword	
+2014-04-01 14:42:56,030      travelLoggerSTATS        INFO   	Keyword	edeed
+2014-04-01 15:06:37,601      travelLoggerSTATS        CRITICAL   global name 'fbid' is not defined
+2014-04-01 15:09:51,845      travelLoggerSTATS        CRITICAL   'AnonymousUser' object has no attribute 'first_name'
+2014-04-01 15:10:26,671      travelLoggerSTATS        CRITICAL   'AnonymousUser' object has no attribute 'first_name'
+2014-04-01 15:16:02,091      travelLoggerSTATS        CRITICAL   'AnonymousUser' object has no attribute 'first_name'
+2014-04-01 15:16:42,881      travelLoggerSTATS        CRITICAL   'AnonymousUser' object has no attribute 'first_name'
+2014-04-01 15:16:44,461      travelLoggerSTATS        CRITICAL   
+2014-04-01 15:16:47,890      travelLoggerSTATS        CRITICAL   global name 'lname' is not defined
+2014-04-01 15:17:40,550      travelLoggerSTATS        CRITICAL   
+2014-04-01 15:18:25,893      travelLoggerSTATS        CRITICAL   (1146, "Table 'em.internh_record' doesn't exist")
+2014-04-01 15:18:57,574      travelLoggerSTATS        CRITICAL   (1146, "Table 'em.internh_record' doesn't exist")
+2014-04-01 15:19:28,705      travelLoggerSTATS        CRITICAL   (1146, "Table 'em.internh_record' doesn't exist")
+2014-04-01 15:22:06,350      travelLoggerSTATS        INFO   Intern		dede	dede
+2014-04-01 16:06:04,623      travelLoggerSTATS        CRITICAL   'dict' object has no attribute 'append'
+2014-04-01 16:06:19,597      travelLoggerSTATS        CRITICAL   'dict' object has no attribute 'append'
+2014-04-01 16:06:22,052      travelLoggerSTATS        CRITICAL   'dict' object has no attribute 'append'
+2014-04-01 16:08:45,215      travelLoggerSTATS        CRITICAL   Invalid block tag: 'data'
+2014-04-01 16:36:45,495      travelLoggerSTATS        INFO   Events		Home
+2014-04-01 16:36:45,697      travelLoggerSTATS        INFO   Events		Home
+2014-04-01 16:47:43,815      travelLoggerSTATS        CRITICAL   (1062, "Duplicate entry '1327484' for key 'PRIMARY'")
+2014-04-01 16:47:45,255      travelLoggerSTATS        CRITICAL   (1062, "Duplicate entry '1327484' for key 'PRIMARY'")
+2014-04-01 16:51:22,988      travelLoggerSTATS        CRITICAL   (1062, "Duplicate entry '1327484' for key 'PRIMARY'")
+2014-04-07 11:54:51,853      travelLoggerSTATS        INFO   Intern	danishrehman716
+2014-04-07 11:54:52,297      travelLoggerSTATS        INFO   Intern	danishrehman716
+2014-04-07 12:00:35,612      travelLoggerSTATS        INFO   Intern	danishrehman716
+2014-04-07 12:00:35,857      travelLoggerSTATS        INFO   Intern	danishrehman716
+2014-04-07 12:36:30,700      travelLoggerSTATS        INFO   Intern	danishrehman716
+2014-04-07 12:36:30,874      travelLoggerSTATS        INFO   Intern	danishrehman716
+2014-04-07 14:13:02,487      travelLoggerSTATS        INFO   Events		Home
+2014-04-07 15:26:26,405      travelLoggerSTATS        INFO   Events		Home
+2014-04-07 15:26:28,053      travelLoggerSTATS        INFO   Events		Home
+2014-04-07 20:45:05,152      travelLoggerSTATS        INFO   Events		Home
+2014-04-08 09:26:22,965      travelLoggerSTATS        INFO   Events	danishrehman716	Home
+2014-04-08 09:26:23,065      travelLoggerSTATS        INFO   Events	danishrehman716	Home
+2014-04-08 09:47:55,922      travelLoggerSTATS        INFO   Events	mothersusc	Home
+2014-04-08 09:47:56,001      travelLoggerSTATS        INFO   Events	mothersusc	Home
+2014-04-08 09:47:56,077      travelLoggerSTATS        INFO   Events	mothersusc	Home
+2014-04-08 10:13:57,679      travelLoggerSTATS        INFO   Events	mothersusc	Home
+2014-04-08 10:15:01,956      travelLoggerSTATS        INFO   Events	mothersusc	Home
+2014-04-08 12:02:08,440      travelLoggerSTATS        INFO   Events	mothersusc	Home
+2014-04-08 12:02:08,503      travelLoggerSTATS        INFO   Events	mothersusc	Home
+2014-04-08 12:02:08,595      travelLoggerSTATS        INFO   Events	mothersusc	Home
+2014-04-08 13:58:20,187      travelLoggerSTATS        INFO   Events	mothersusc	Home
+2014-04-08 13:58:20,367      travelLoggerSTATS        INFO   Events	mothersusc	Home
+2014-04-08 19:06:22,703      travelLoggerSTATS        INFO   Events	mothersusc	Home
+2014-04-08 19:06:22,969      travelLoggerSTATS        INFO   Events	mothersusc	Home
+2014-04-10 11:09:46,022      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 11:09:46,411      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 11:15:12,043      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 11:15:12,234      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 11:18:09,173      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 11:18:09,237      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 11:20:13,815      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 11:20:13,886      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 11:28:38,792      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 11:28:38,975      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 11:29:20,119      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 11:29:20,269      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 11:46:07,608      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 11:46:07,808      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 11:46:22,463      travelLoggerSTATS        CRITICAL   
+2014-04-10 11:46:44,872      travelLoggerSTATS        CRITICAL   
+2014-04-10 11:46:45,091      travelLoggerSTATS        CRITICAL   
+2014-04-10 11:46:49,648      travelLoggerSTATS        INFO   Events		Keyword	sales
+2014-04-10 11:46:51,900      travelLoggerSTATS        INFO   Events		Keyword	sal
+2014-04-10 11:46:51,999      travelLoggerSTATS        INFO   Events		Keyword	sale
+2014-04-10 11:46:52,188      travelLoggerSTATS        INFO   Events		Keyword	sales
+2014-04-10 11:48:33,678      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 11:48:33,776      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 11:48:35,986      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 11:48:36,070      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 11:48:36,369      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 11:48:36,460      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 11:48:36,659      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 11:48:36,750      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 11:48:37,992      travelLoggerSTATS        INFO   Events		Keyword	sal
+2014-04-10 11:48:38,139      travelLoggerSTATS        INFO   Events		Keyword	sale
+2014-04-10 11:49:04,279      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 11:49:04,416      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 11:49:04,633      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 11:49:04,763      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 11:49:23,343      travelLoggerSTATS        INFO   Events		Keyword	sal
+2014-04-10 11:49:23,529      travelLoggerSTATS        INFO   Events		Keyword	sale
+2014-04-10 11:54:35,101      travelLoggerSTATS        INFO   Events		Keyword	sale
+2014-04-10 11:55:15,218      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 11:55:15,673      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 11:58:16,420      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 11:58:16,627      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 12:05:16,190      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 12:05:16,650      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 12:05:20,403      travelLoggerSTATS        INFO   EventsDesc		Keyword	224022087794406
+2014-04-10 12:05:20,404      travelLoggerSTATS        INFO   EventsDesc	224022087794406	Keyword	Subtext (Suptext) - BNT Spring One-Acts!
+2014-04-10 12:05:24,198      travelLoggerSTATS        INFO   EventsDesc		Keyword	224022087794406
+2014-04-10 12:05:24,199      travelLoggerSTATS        INFO   EventsDesc	224022087794406	Keyword	Subtext (Suptext) - BNT Spring One-Acts!
+2014-04-10 12:05:24,842      travelLoggerSTATS        INFO   EventsDesc		Keyword	468698756567085
+2014-04-10 12:05:24,843      travelLoggerSTATS        INFO   EventsDesc	468698756567085	Keyword	ISA Presents: GLOBE FEST aka. the BIGGEST Mixer EVER
+2014-04-10 12:05:25,330      travelLoggerSTATS        INFO   EventsDesc		Keyword	669163886465254
+2014-04-10 12:05:25,331      travelLoggerSTATS        INFO   EventsDesc	669163886465254	Keyword	"Higher Learning": Real Talk About The Black Student Experience at USC
+2014-04-10 12:05:25,867      travelLoggerSTATS        INFO   EventsDesc		Keyword	376269492516032
+2014-04-10 12:05:25,867      travelLoggerSTATS        INFO   EventsDesc	376269492516032	Keyword	Girl Meets World Live Taping
+2014-04-10 12:05:26,451      travelLoggerSTATS        INFO   EventsDesc		Keyword	1472551416295196
+2014-04-10 12:05:26,452      travelLoggerSTATS        INFO   EventsDesc	1472551416295196	Keyword	Walk to Downtown Art Walk
+2014-04-10 12:39:40,898      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 12:39:41,294      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 12:54:38,598      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 12:54:39,013      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 12:54:40,742      travelLoggerSTATS        INFO   EventsDesc		Keyword	1472551416295196
+2014-04-10 12:54:40,743      travelLoggerSTATS        INFO   EventsDesc	1472551416295196	Keyword	Walk to Downtown Art Walk
+2014-04-10 12:54:52,201      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 12:54:52,625      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 12:54:53,484      travelLoggerSTATS        INFO   EventsDesc		Keyword	376269492516032
+2014-04-10 12:54:53,485      travelLoggerSTATS        INFO   EventsDesc	376269492516032	Keyword	Girl Meets World Live Taping
+2014-04-10 12:55:01,574      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 12:55:01,873      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 12:55:02,957      travelLoggerSTATS        INFO   EventsDesc		Keyword	376269492516032
+2014-04-10 12:55:02,958      travelLoggerSTATS        INFO   EventsDesc	376269492516032	Keyword	Girl Meets World Live Taping
+2014-04-10 13:03:10,374      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:03:10,725      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:03:26,186      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:03:26,502      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:04:13,802      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:04:14,100      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:04:15,923      travelLoggerSTATS        INFO   Events		Keyword	sal
+2014-04-10 13:04:16,086      travelLoggerSTATS        INFO   Events		Keyword	sale
+2014-04-10 13:04:16,318      travelLoggerSTATS        INFO   Events		Keyword	sales
+2014-04-10 13:05:02,563      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:05:02,955      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:05:05,058      travelLoggerSTATS        INFO   Events		Keyword	sal
+2014-04-10 13:05:05,273      travelLoggerSTATS        INFO   Events		Keyword	sale
+2014-04-10 13:05:05,574      travelLoggerSTATS        INFO   Events		Keyword	sales
+2014-04-10 13:06:26,775      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:06:27,073      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:06:29,262      travelLoggerSTATS        INFO   Events		Keyword	sal
+2014-04-10 13:06:29,457      travelLoggerSTATS        INFO   Events		Keyword	sale
+2014-04-10 13:06:29,797      travelLoggerSTATS        INFO   Events		Keyword	sales
+2014-04-10 13:06:30,736      travelLoggerSTATS        INFO   Events		Keyword	sale
+2014-04-10 13:08:56,550      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:08:56,894      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:09:52,838      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:09:53,174      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:13:00,749      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:13:01,069      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:13:21,759      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:13:22,082      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:13:22,085      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:13:22,216      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:13:22,226      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:13:22,367      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:13:22,380      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:13:22,550      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:13:22,561      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:13:22,688      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:13:22,707      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:13:22,871      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:13:22,879      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:13:23,039      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:13:23,055      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:13:23,134      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:13:23,457      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:14:05,340      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:14:05,940      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:14:06,701      travelLoggerSTATS        INFO   EventsDesc		Keyword	1472551416295196
+2014-04-10 13:14:06,701      travelLoggerSTATS        INFO   EventsDesc	1472551416295196	Keyword	Walk to Downtown Art Walk
+2014-04-10 13:26:28,882      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:26:29,087      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:26:31,084      travelLoggerSTATS        INFO   EventsDesc		Keyword	1472551416295196
+2014-04-10 13:26:31,085      travelLoggerSTATS        INFO   EventsDesc	1472551416295196	Keyword	Walk to Downtown Art Walk
+2014-04-10 13:29:59,872      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:30:00,448      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:30:00,485      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:30:00,516      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:30:00,649      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:34:04,455      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:34:04,828      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:34:04,873      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:35:46,434      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:35:46,972      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:35:47,004      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:35:47,036      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:35:47,147      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:36:25,733      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:36:26,063      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:36:26,099      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:36:26,143      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:36:26,248      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:36:36,598      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:36:36,905      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:36:36,938      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:36:54,775      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:36:55,109      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:36:55,158      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:37:03,683      travelLoggerSTATS        INFO   EventsDesc		Keyword	376269492516032
+2014-04-10 13:37:03,684      travelLoggerSTATS        INFO   EventsDesc	376269492516032	Keyword	Girl Meets World Live Taping
+2014-04-10 13:37:05,441      travelLoggerSTATS        INFO   EventsDesc		Keyword	669163886465254
+2014-04-10 13:37:05,442      travelLoggerSTATS        INFO   EventsDesc	669163886465254	Keyword	"Higher Learning": Real Talk About The Black Student Experience at USC
+2014-04-10 13:37:08,884      travelLoggerSTATS        INFO   EventsDesc		Keyword	400496600065567
+2014-04-10 13:37:08,884      travelLoggerSTATS        INFO   EventsDesc	400496600065567	Keyword	SWE Members' Retreat: Photo Scavenger Hunt at The Huntington Library
+2014-04-10 13:37:10,323      travelLoggerSTATS        INFO   EventsDesc		Keyword	639428489438417
+2014-04-10 13:37:10,323      travelLoggerSTATS        INFO   EventsDesc	639428489438417	Keyword	Leadership & Organizations Inaugural Kickoff Event
+2014-04-10 13:37:12,181      travelLoggerSTATS        INFO   EventsDesc		Keyword	1430744537176983
+2014-04-10 13:37:12,182      travelLoggerSTATS        INFO   EventsDesc	1430744537176983	Keyword	How the Workforce Really Works: A Talk with Recruiter Erick Briggs
+2014-04-10 13:37:13,502      travelLoggerSTATS        INFO   EventsDesc		Keyword	1407574486178362
+2014-04-10 13:37:13,502      travelLoggerSTATS        INFO   EventsDesc	1407574486178362	Keyword	TED-light presented by Nu Rho Psi
+2014-04-10 13:37:15,721      travelLoggerSTATS        INFO   EventsDesc		Keyword	1430744537176983
+2014-04-10 13:37:15,722      travelLoggerSTATS        INFO   EventsDesc	1430744537176983	Keyword	How the Workforce Really Works: A Talk with Recruiter Erick Briggs
+2014-04-10 13:39:30,415      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:39:30,790      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:39:30,837      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:39:30,871      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:39:31,000      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:39:31,184      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:39:31,629      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:39:31,675      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:39:31,712      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:39:31,850      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:39:32,506      travelLoggerSTATS        INFO   EventsDesc		Keyword	809391189088572
+2014-04-10 13:39:32,507      travelLoggerSTATS        INFO   EventsDesc	809391189088572	Keyword	Crooked Roads: A Solo Performance Piece
+2014-04-10 13:39:37,114      travelLoggerSTATS        INFO   EventsDesc		Keyword	1430744537176983
+2014-04-10 13:39:37,115      travelLoggerSTATS        INFO   EventsDesc	1430744537176983	Keyword	How the Workforce Really Works: A Talk with Recruiter Erick Briggs
+2014-04-10 13:39:41,971      travelLoggerSTATS        INFO   EventsDesc		Keyword	1407574486178362
+2014-04-10 13:39:41,972      travelLoggerSTATS        INFO   EventsDesc	1407574486178362	Keyword	TED-light presented by Nu Rho Psi
+2014-04-10 13:46:56,007      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:46:56,464      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:46:56,503      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:46:56,535      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:46:56,598      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:47:15,068      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:47:15,446      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:47:15,482      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:47:15,513      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:47:15,653      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 13:47:16,464      travelLoggerSTATS        INFO   EventsDesc		Keyword	1472551416295196
+2014-04-10 13:47:16,464      travelLoggerSTATS        INFO   EventsDesc	1472551416295196	Keyword	Walk to Downtown Art Walk
+2014-04-10 15:33:38,817      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 15:33:39,357      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 15:33:45,467      travelLoggerSTATS        INFO   Events		Keyword	sal
+2014-04-10 15:33:45,669      travelLoggerSTATS        INFO   Events		Keyword	sale
+2014-04-10 16:41:33,518      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 16:41:33,639      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 16:47:48,566      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 16:47:49,314      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 16:47:49,355      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 16:47:49,387      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 16:47:49,429      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 16:50:57,984      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 16:50:58,110      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 16:51:15,606      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 16:51:16,183      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 18:19:22,729      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 18:19:23,264      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 18:24:47,655      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 18:24:47,890      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 18:24:47,936      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 18:24:47,971      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 18:24:48,005      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 18:25:01,382      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 18:25:01,580      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 18:25:01,633      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 18:25:01,681      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 18:25:01,725      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 18:25:06,972      travelLoggerSTATS        INFO   Events		Keyword	sal
+2014-04-10 18:25:07,200      travelLoggerSTATS        INFO   Events		Keyword	sale
+2014-04-10 18:27:31,447      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 18:27:31,669      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 18:27:31,718      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 18:27:31,765      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 18:27:31,811      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 18:28:01,632      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 18:28:01,854      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 18:28:01,912      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 18:28:01,961      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 18:28:02,008      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 18:31:10,397      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 18:31:10,629      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 18:31:10,678      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 18:51:38,776      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 18:51:39,810      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 18:51:39,848      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 18:51:39,880      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 18:51:39,923      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:06:17,829      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:06:18,044      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:06:18,101      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:06:18,151      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:06:18,184      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:08:08,688      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:08:08,964      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:08:09,001      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:08:09,039      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:08:09,070      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:09:14,877      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:09:15,132      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:09:15,186      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:09:15,239      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:09:15,271      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:11:16,091      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:11:16,297      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:11:17,220      travelLoggerSTATS        INFO   EventsDesc		Keyword	608373592581446
+2014-04-10 19:11:17,221      travelLoggerSTATS        INFO   EventsDesc	608373592581446	Keyword	Health Talk Symposium Boba Fundraiser
+2014-04-10 19:11:54,025      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:11:54,459      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:12:06,977      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:12:07,164      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:12:18,843      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:12:19,330      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:12:48,398      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:12:48,610      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:12:48,644      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:12:48,682      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:12:48,714      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:13:08,095      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:13:08,326      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:13:08,382      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:13:08,440      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:13:08,480      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:13:09,390      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:13:09,625      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:13:09,667      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:13:09,701      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:13:09,734      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:13:21,660      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:13:21,836      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:15:17,705      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:15:18,097      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:15:18,253      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:15:20,354      travelLoggerSTATS        INFO   EventsDesc		Keyword	1472551416295196
+2014-04-10 19:15:20,355      travelLoggerSTATS        INFO   EventsDesc	1472551416295196	Keyword	Walk to Downtown Art Walk
+2014-04-10 19:16:09,385      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:16:09,575      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:16:31,335      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:16:31,467      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:16:52,325      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:16:52,478      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:17:00,408      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:17:00,509      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:17:44,794      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:17:44,923      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:17:46,057      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:17:46,207      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:17:46,562      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:17:46,613      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:17:46,620      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:17:46,661      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:17:46,716      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:17:46,756      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:17:46,806      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:17:46,862      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:17:46,917      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:17:46,958      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:17:47,006      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:17:47,071      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:17:47,074      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:17:47,107      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:17:47,159      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:17:47,207      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:17:47,262      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:17:47,495      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:17:55,288      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:17:55,424      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:18:14,542      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:18:15,027      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:18:19,237      travelLoggerSTATS        INFO   EventsDesc		Keyword	1435211566719085
+2014-04-10 19:18:19,238      travelLoggerSTATS        INFO   EventsDesc	1435211566719085	Keyword	IEEE Round 2 Social! USC & UCLA Beach Bonfire
+2014-04-10 19:18:28,141      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:18:28,647      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:18:30,385      travelLoggerSTATS        INFO   EventsDesc		Keyword	1481886382026604
+2014-04-10 19:18:30,386      travelLoggerSTATS        INFO   EventsDesc	1481886382026604	Keyword	BNT Full Length Auditions!
+2014-04-10 19:19:14,118      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:19:14,465      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:19:14,509      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:19:14,547      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:19:14,578      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:19:15,658      travelLoggerSTATS        INFO   EventsDesc		Keyword	608373592581446
+2014-04-10 19:19:15,659      travelLoggerSTATS        INFO   EventsDesc	608373592581446	Keyword	Health Talk Symposium Boba Fundraiser
+2014-04-10 19:19:32,274      travelLoggerSTATS        INFO   Events		Keyword	sal
+2014-04-10 19:19:32,461      travelLoggerSTATS        INFO   Events		Keyword	sale
+2014-04-10 19:21:42,701      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:21:42,897      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:21:42,943      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:21:42,976      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:21:43,005      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:21:50,664      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:21:50,957      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:42:37,283      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:42:37,429      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:51:07,651      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 19:51:08,881      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:04:14,330      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:04:15,430      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:09:12,421      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:09:12,583      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:09:25,014      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:09:25,128      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:09:48,023      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:09:48,140      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:09:59,146      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:09:59,330      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:10:11,159      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:10:11,346      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:10:21,050      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:10:21,224      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:14:11,835      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:14:12,035      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:22:19,189      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:22:19,374      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:25:28,824      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:25:29,152      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:28:06,650      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:28:06,783      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:29:03,399      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:29:03,689      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:29:16,547      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:29:17,107      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:29:30,145      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:29:30,864      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:30:43,606      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:30:43,938      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:35:46,432      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:35:47,709      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:36:38,134      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:36:38,563      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:37:21,057      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:37:21,190      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:40:31,679      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:40:31,793      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:43:55,686      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 20:43:56,171      travelLoggerSTATS        INFO   Events		Home
+2014-04-10 21:28:19,521      travelLoggerSTATS        INFO   Events	root	Home
+2014-04-10 21:28:20,012      travelLoggerSTATS        INFO   Events	root	Home
+2014-04-12 18:00:01,767      travelLoggerSTATS        INFO   Events		Home
+2014-04-12 18:03:48,756      travelLoggerSTATS        INFO   Events		Home
+2014-04-12 18:04:08,189      travelLoggerSTATS        INFO   Events		Home
+2014-04-12 18:04:08,290      travelLoggerSTATS        INFO   Events		Home
+2014-04-12 18:04:16,310      travelLoggerSTATS        INFO   Events		Home
+2014-04-12 18:08:19,666      travelLoggerSTATS        INFO   Events		Home
+2014-04-12 18:08:21,017      travelLoggerSTATS        INFO   Events		Home
+2014-04-12 18:08:22,191      travelLoggerSTATS        INFO   Events		Home
+2014-04-13 00:37:39,780      travelLoggerSTATS        INFO   Events		Home
+2014-04-13 00:37:39,780      travelLoggerSTATS        CRITICAL   global name 'data' is not defined
+2014-04-13 00:38:37,470      travelLoggerSTATS        INFO   Events		Home
+2014-04-13 00:38:37,471      travelLoggerSTATS        CRITICAL   'WSGIRequest' object has no attribute '__getitem__'
+2014-04-13 00:38:50,148      travelLoggerSTATS        INFO   Events		Home
+2014-04-13 00:38:50,148      travelLoggerSTATS        CRITICAL   'WSGIRequest' object has no attribute '__getitem__'
+2014-04-13 00:39:41,198      travelLoggerSTATS        INFO   Events		Home
+2014-04-13 00:39:41,198      travelLoggerSTATS        CRITICAL   'WSGIRequest' object has no attribute '__getitem__'
+2014-04-13 00:42:47,207      travelLoggerSTATS        INFO   Events		Home
+2014-04-13 00:42:47,207      travelLoggerSTATS        CRITICAL   'WSGIRequest' object has no attribute '__getitem__'
+2014-04-13 00:43:26,657      travelLoggerSTATS        INFO   Events		Home
+2014-04-13 00:43:26,657      travelLoggerSTATS        CRITICAL   'WSGIRequest' object has no attribute '__getitem__'
+2014-04-13 00:44:25,805      travelLoggerSTATS        CRITICAL   
+2014-04-13 00:56:06,397      travelLoggerSTATS        INFO   Events		Home
+2014-04-13 00:56:06,397      travelLoggerSTATS        CRITICAL   'WSGIRequest' object has no attribute '__getitem__'
+2014-04-13 00:56:45,780      travelLoggerSTATS        INFO   Events		Home
+2014-04-13 00:56:45,781      travelLoggerSTATS        CRITICAL   'WSGIRequest' object has no attribute '__getitem__'
+2014-04-13 02:51:46,439      travelLoggerSTATS        INFO   Events		Home
+2014-04-13 02:51:46,440      travelLoggerSTATS        CRITICAL   'WSGIRequest' object has no attribute '__getitem__'
+2014-04-13 03:00:46,057      travelLoggerSTATS        INFO   Events		Home
+2014-04-13 03:00:46,057      travelLoggerSTATS        CRITICAL   'WSGIRequest' object has no attribute '__getitem__'
+2014-04-13 03:01:00,481      travelLoggerSTATS        INFO   Events		Home
+2014-04-13 03:01:00,481      travelLoggerSTATS        CRITICAL   'WSGIRequest' object has no attribute '__getitem__'
+2014-04-13 03:07:30,309      travelLoggerSTATS        INFO   Events		Home
+2014-04-13 03:07:30,310      travelLoggerSTATS        CRITICAL   'WSGIRequest' object has no attribute '__getitem__'
+2014-04-13 03:08:05,716      travelLoggerSTATS        INFO   Events		Home
+2014-04-13 03:08:09,939      travelLoggerSTATS        CRITICAL   
+2014-04-13 03:08:28,670      travelLoggerSTATS        INFO   Events		Home
+2014-04-13 03:08:31,791      travelLoggerSTATS        CRITICAL   
+2014-04-13 03:09:06,011      travelLoggerSTATS        INFO   Events		Home
+2014-04-13 03:09:10,289      travelLoggerSTATS        CRITICAL   global name 'data' is not defined
+2014-04-13 03:09:37,592      travelLoggerSTATS        INFO   Events		Home
+2014-04-13 03:09:37,593      travelLoggerSTATS        CRITICAL   "Key 'direction' not found in <QueryDict: {u'handIds': [u'96'], u'songid': [u't2806353'], u'center': [u'undefined'], u'pointableIds': [u'96'], u'state': [u'stop'], u'radius': [u'undefined'], u'position': [u'6.25641,114.305,-15.591'], u'duration': [u'108158'], u'progress': [u'1'], u'type': [u'keyTap']}>"
+2014-04-13 03:09:51,576      travelLoggerSTATS        INFO   Events		Home
+2014-04-13 03:11:54,242      travelLoggerSTATS        CRITICAL   "Key 'direction' not found in <QueryDict: {u'handIds': [u'96'], u'songid': [u't2806353'], u'center': [u'undefined'], u'pointableIds': [u'96'], u'state': [u'stop'], u'radius': [u'undefined'], u'position': [u'6.25641,114.305,-15.591'], u'duration': [u'108158'], u'progress': [u'1'], u'type': [u'keyTap']}>"
+2014-04-13 03:11:58,235      travelLoggerSTATS        INFO   Events		Home
+2014-04-13 03:15:47,115      travelLoggerSTATS        INFO   Events		Home
+2014-04-13 03:16:23,638      travelLoggerSTATS        CRITICAL   global name 'Songs' is not defined
+2014-04-13 03:16:27,341      travelLoggerSTATS        INFO   Events		Home
+2014-04-13 03:16:57,075      travelLoggerSTATS        CRITICAL   
+2014-04-13 03:17:06,805      travelLoggerSTATS        INFO   Events		Home
+2014-04-13 03:17:37,574      travelLoggerSTATS        CRITICAL   
+2014-04-13 03:17:41,583      travelLoggerSTATS        INFO   Events		Home
+2014-04-13 03:18:33,718      travelLoggerSTATS        CRITICAL   eval() arg 1 must be a string or code object
+2014-04-13 03:18:38,260      travelLoggerSTATS        INFO   Events		Home
+2014-04-13 03:19:56,313      travelLoggerSTATS        CRITICAL   'dict' object has no attribute 'first'
+2014-04-13 03:20:01,951      travelLoggerSTATS        INFO   Events		Home
+2014-04-13 03:21:17,243      travelLoggerSTATS        CRITICAL   global name 'responseJson' is not defined
+2014-04-13 03:21:21,013      travelLoggerSTATS        INFO   Events		Home
+2014-04-13 03:23:10,767      travelLoggerSTATS        CRITICAL   'NoneType' object has no attribute '__getitem__'
+2014-04-13 03:23:48,618      travelLoggerSTATS        INFO   Events		Home
+2014-04-13 03:24:26,809      travelLoggerSTATS        INFO   Events		Home
+2014-04-13 03:26:43,657      travelLoggerSTATS        CRITICAL   'speed'
+2014-04-13 03:26:49,761      travelLoggerSTATS        INFO   Events		Home
+2014-04-13 03:26:57,661      travelLoggerSTATS        CRITICAL   'speed'
+2014-04-13 03:27:04,164      travelLoggerSTATS        INFO   Events		Home
+2014-04-13 03:27:13,547      travelLoggerSTATS        CRITICAL   
+2014-04-13 03:27:32,433      travelLoggerSTATS        INFO   Events		Home
+2014-04-13 03:29:17,473      travelLoggerSTATS        CRITICAL   'speed'
+2014-04-13 03:29:24,657      travelLoggerSTATS        INFO   Events		Home
+2014-04-13 03:29:41,871      travelLoggerSTATS        CRITICAL   WRONGTYPE Operation against a key holding the wrong kind of value
+2014-04-13 03:30:24,815      travelLoggerSTATS        INFO   Events		Home
